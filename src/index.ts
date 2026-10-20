@@ -1,4 +1,5 @@
 import express from "express";
+import cors from "cors";
 import fs from 'node:fs/promises';
 
 interface Product {
@@ -14,6 +15,9 @@ interface Product {
 }
 
 const app = express();
+app.use(cors({
+  origin: "http://localhost:5173"
+}));  
 
 app.use(express.json());
 

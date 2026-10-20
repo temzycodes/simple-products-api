@@ -427,5 +427,16 @@
     "category": "Home Comfort",
     "brand": "Binatone",
     "discount": 5
+  },
+  {
+    "id": 40,
+    "title": "Digital Rice Cooker 1.8L",
+    "price": 55000,
+    "image": "https://i.pinimg.com/1200x/c9/3a/83/c93a83332bf32e5ea7fa7650f6f7b316.jpg",
+    "ratings": 4.8,
+    "description": "Cook fluffy and delicious rice with ease using this 1.8L digital rice cooker. It features multiple cooking functions, automatic keep-warm technology, and a non-stick inner pot for convenient everyday cooking.",
+    "category": "Kitchen Appliances",
+    "brand": "Nexus",
+    "discount": 10
   }
 ]
